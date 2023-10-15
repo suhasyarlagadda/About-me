@@ -11,6 +11,7 @@ My technical proficiency encompasses data extraction, database querying, data mi
 📩 Contact me via LinkedIn: http://www.linkedin.com/in/suhasyar
 
 Tableau public: https://public.tableau.com/app/profile/suhas.yarlagadda/vizzes
+
 Flipside Crypto: https://flipsidecrypto.xyz/suhasyarlagadda1230
 
 
